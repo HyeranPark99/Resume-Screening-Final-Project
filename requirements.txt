@@ -1,0 +1,15 @@
+# Local alternative to the Colab environment. Also requires the Tesseract and Poppler system packages.
+pandas<2
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+pytesseract
+pdf2image
+opencv-python
+PyPDF2
+beautifulsoup4
+nltk
+spacy
+wordcloud
